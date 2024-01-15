@@ -1,0 +1,44 @@
+﻿@using FinalExp.Core.Entities
+@model List<Blog>
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    int counter = 0;
+}
+<h1>Index</h1>
+
+<div class="container-fluid">
+    <div class="table-title text-white">
+        <h1 class="title">Blog <span>Table</span></h1>
+        <a class="btn btn-success create-btn" asp-action="Create" asp-controller="Blog">Create</a>
+    </div>
+    <table class="table table-hover table-striped shadow">
+        <thead>
+            <tr>
+                <th scope="col">No</th>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var blog in Model)
+            {
+                counter++;
+                <tr>
+                    <th scope="row">@counter</th>
+                    <td>@blog.Title</td>
+                    <td>@blog.Description</td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="Blog" asp-route-id="@blog.Id">
+                            <i class="fa-solid fa-pen-to-square"></i>
+                        </a>
+                        <a class="btn btn-danger delete-btn" asp-action="Delete" asp-controller="Blog" asp-route-id="@blog.Id">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

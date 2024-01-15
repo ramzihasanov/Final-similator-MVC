@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExc.Business.deps.json
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExc.Business.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExc.Business.pdb
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExp.Core.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExp.Data.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExp.Data.pdb
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\bin\Debug\net6.0\FinalExp.Core.pdb
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\refint\FinalExc.Business.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\FinalExc.Business.pdb
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExc.Business\obj\Debug\net6.0\ref\FinalExc.Business.dll

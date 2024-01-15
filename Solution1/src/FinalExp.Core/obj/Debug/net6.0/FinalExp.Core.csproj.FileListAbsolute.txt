@@ -1,0 +1,14 @@
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\bin\Debug\net6.0\FinalExp.Core.deps.json
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\bin\Debug\net6.0\FinalExp.Core.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\bin\Debug\net6.0\FinalExp.Core.pdb
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\refint\FinalExp.Core.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.pdb
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\ref\FinalExp.Core.dll
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\bin\Debug\net6.0\FinalExp.Core.runtimeconfig.json
+C:\Users\ll novbe\Desktop\Final-similator-MVC\Solution1\src\FinalExp.Core\obj\Debug\net6.0\FinalExp.Core.genruntimeconfig.cache
